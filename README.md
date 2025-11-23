@@ -1,5 +1,4 @@
-ResumeInsight is a lightweight, fast, and intelligent resume analysis system built using FastAPI and NLP.
-It extracts skills from resumes (PDF/DOCX) and recommends suitable job roles based on skill–role matching.
+
 🚀 Features
      FastAPI backend with automatic API docs
      Resume Upload Support (.pdf, .docx)
