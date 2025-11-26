@@ -16,22 +16,22 @@ MCP-ready for integration with AI agents or automation tools
 
 🛠️ Tech Stack
 Frontend
-	•	HTML, CSS
-	•	JavaScript
+•	HTML, CSS
+•	JavaScript
 
 Backend
-	•	Python
-	•	FastAPI
-	•	Uvicorn
+•	Python
+•	FastAPI
+•	Uvicorn
 
 Machine Learning / NLP
-	•	spaCy / NLTK
-	•	Scikit-learn
+•	spaCy / NLTK
+•	Scikit-learn
 
 Others
-	•	File handling
-	•	Regex-based cleaning
-	•	Job role dataset
+•	File handling
+•	Regex-based cleaning
+•	Job role dataset
 
 📂 Project Structure
 ├── web/
