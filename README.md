@@ -33,31 +33,6 @@ Others
 •	Regex-based cleaning
 •	Job role dataset
 
-📂 Project Structure
-├── web/
-│     ├── main.py
-│     ├── templates/
-│     ├── static/
-│     └── uploads/
-├──   mcp_tools/
-│     ├── resume_parser.py
-│     └── job_recommender.py
-├──    data/
-│     └── job_dataset.csv
-├──    README.md
-└──    requirements.txt
-
-▶️ How to Run the Project
-1. Clone the Repository
-   git clone https://github.com/your-username/job-recommender.git
-cd job-recommender
-2. Install Dependencies
-   pip install -r requirements.txt
-3. Start the FastAPI Server
-   uvicorn web.main:app --reload --port 8000
-4. Open in Browser
-   http://127.0.0.1:8000
-
 🧩 How It Works
 1.	User uploads a resume file
 2.	Resume Parser extracts:
