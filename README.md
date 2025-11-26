@@ -35,17 +35,17 @@ Others
 
 📂 Project Structure
 ├── web/
-│   ├── main.py
-│   ├── templates/
-│   ├── static/
-│   └── uploads/
-├── mcp_tools/
-│   ├── resume_parser.py
-│   └── job_recommender.py
-├── data/
-│   └── job_dataset.csv
-├── README.md
-└── requirements.txt
+│     ├── main.py
+│     ├── templates/
+│     ├── static/
+│     └── uploads/
+├──   mcp_tools/
+│     ├── resume_parser.py
+│     └── job_recommender.py
+├──    data/
+│     └── job_dataset.csv
+├──    README.md
+└──    requirements.txt
 
 ▶️ How to Run the Project
 1. Clone the Repository
